@@ -24,3 +24,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 部分截图
 ![1](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/1.png)
+![2](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/2.png)
+![3](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/3.png)
+![4](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/4.png)
+![5](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/5.png)
+![6](https://github.com/chiuwingyan/shopweb/blob/master/src/assets/6.png)
